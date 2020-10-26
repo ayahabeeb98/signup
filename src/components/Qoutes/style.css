@@ -1,0 +1,27 @@
+
+
+.par {
+    position: relative;
+    padding-top: 4rem;
+    width: 80%;
+    font-size: 1.5rem;
+    margin: 0 auto;
+    color: #7f7f7f;
+}
+
+
+.quotation{
+    font-family: Gayathri, serif;
+    font-size: 96px;
+    font-weight: bold;
+    color: #BABABA;
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+.Author {
+    width: 80%;
+    margin: 3rem auto 0;
+    color: #5f5f5f;
+}
